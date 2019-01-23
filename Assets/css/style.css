@@ -80,7 +80,8 @@ footer
     {background-color: #666666;
     text-align: center;
     color: white;
-    margin: 25px;}
+    margin: 80px;
+    border-top: 7px solid #4aaaa5;}
 
 #text 
     {
